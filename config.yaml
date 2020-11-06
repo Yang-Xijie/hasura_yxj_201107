@@ -1,6 +1,8 @@
 version: 2
-endpoint: http://localhost:8080
+endpoint: http://localhost:23333
+# 这里绑定的是docker-compose里面graphql-engine.ports
 metadata_directory: metadata
+migrations_directory: migrations
 actions:
   kind: synchronous
   handler_webhook_baseurl: http://localhost:3000
