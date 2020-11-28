@@ -6,8 +6,7 @@ services:
     restart: always
     volumes:
       # - ~/data/postgres:/var/lib/postgresql/data
-      # tm这句话啥意思,你挂在一个存储但是我tm每次删除修改那是怎样的一种体验???就说怎么删不干净
-      # 改成下面这句
+      # 如果用这句话那每次删除docker数据是删除不干净的,我改成了下面这句
       # 或者增加一个环境判断:如果是服务器环境那就那个地址,但是同学自己电脑跑就不能是那个
       # 虽然.env文件不能上传,但是README里面还是要写清楚env需要写哪些变量吧?
       - /var/lib/postgresql/data

@@ -1,3 +1,11 @@
+# hasura_yxj_201107
+在当前目录下`docker-cmpose up -d`安装镜像
+`yarn console`打开控制台,默认 http://localhost:9695/ 
+`yarn apply`将代码中的表同步到docker的postgres数据库中
+
+# References
+[GitHub | EESAST Hasura](https://github.com/eesast/hasura)
+
 # EESAST Hasura
 
 EESAST Hasura migrations and metadata files

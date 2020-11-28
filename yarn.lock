@@ -39,7 +39,7 @@ color-name@1.1.3:
 
 debug@=3.1.0:
   version "3.1.0"
-  resolved "https://registry.npm.taobao.org/debug/download/debug-3.1.0.tgz?cache=0&sync_timestamp=1600502871403&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fdebug%2Fdownload%2Fdebug-3.1.0.tgz#5bb5a0672628b64149566ba16819e61518c67261"
+  resolved "https://registry.npm.taobao.org/debug/download/debug-3.1.0.tgz?cache=0&sync_timestamp=1605791516034&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fdebug%2Fdownload%2Fdebug-3.1.0.tgz#5bb5a0672628b64149566ba16819e61518c67261"
   integrity sha1-W7WgZyYotkFJVmuhaBnmFRjGcmE=
   dependencies:
     ms "2.0.0"
@@ -61,10 +61,10 @@ has-flag@^3.0.0:
   resolved "https://registry.npm.taobao.org/has-flag/download/has-flag-3.0.0.tgz#b5d454dc2199ae225699f3467e5a07f3b955bafd"
   integrity sha1-tdRU3CGZriJWmfNGfloH87lVuv0=
 
-hasura-cli@1.3.2:
-  version "1.3.2"
-  resolved "https://registry.yarnpkg.com/hasura-cli/-/hasura-cli-1.3.2.tgz#e38ae1167976cd588718ce66c1330a7f694a17c7"
-  integrity sha512-x+f/fpjJyI47b0KWvOKQqTNMKLAVXaFEN63EPz4kAjqTSQD/hinmWDW4YSDBWnCUtaQHTyIS5hsLzxw9yWFA5g==
+hasura-cli@1.3.3:
+  version "1.3.3"
+  resolved "https://registry.npm.taobao.org/hasura-cli/download/hasura-cli-1.3.3.tgz#8673d1c5748f9d8a05f0adacde6e3b446f0406a4"
+  integrity sha1-hnPRxXSPnYoF8K2s3m47RG8EBqQ=
   dependencies:
     axios "^0.19.0"
     chalk "^2.4.2"
@@ -76,7 +76,7 @@ ms@2.0.0:
 
 supports-color@^5.3.0:
   version "5.5.0"
-  resolved "https://registry.npm.taobao.org/supports-color/download/supports-color-5.5.0.tgz?cache=0&sync_timestamp=1598611732186&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fsupports-color%2Fdownload%2Fsupports-color-5.5.0.tgz#e2e69a44ac8772f78a1ec0b35b689df6530efc8f"
+  resolved "https://registry.npm.taobao.org/supports-color/download/supports-color-5.5.0.tgz?cache=0&sync_timestamp=1606204994169&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fsupports-color%2Fdownload%2Fsupports-color-5.5.0.tgz#e2e69a44ac8772f78a1ec0b35b689df6530efc8f"
   integrity sha1-4uaaRKyHcveKHsCzW2id9lMO/I8=
   dependencies:
     has-flag "^3.0.0"
